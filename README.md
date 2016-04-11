@@ -6,7 +6,7 @@ or Fast Short Style
 v.0.0.7
 9.10.13
 
-example : fss="d:bl; m:a"   equivalent	 style="display:auto; margin: auto;"
+example : fs="d:bl; m:a"   equivalent	 style="display:auto; margin: auto;"
 
 style attributes:
 
