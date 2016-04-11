@@ -9,6 +9,7 @@ v.0.0.7
 example : fss="d:bl; m:a"   equivalent	 style="display:auto; margin: auto;"
 
 style attributes:
+
 	d : 'display',
 	h : 'height',
 	w : 'width',
