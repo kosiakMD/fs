@@ -82,6 +82,7 @@ style attributes:
 	tr : 'transform'
 
 attributes' values:
+
 	a : 'auto',
 	n : 'none',
 	h : 'hidden',
@@ -113,6 +114,7 @@ attributes' values:
 	low : 'lowercase'
 
 parts of attributes after "-" or others:
+
 	T : 'top',
 	L : 'left',
 	R : 'right',
