@@ -8,7 +8,7 @@ v.0.0.7
 
 example : fss="d:bl; m:a"   equivalen	 style="display:auto; margin: auto;"
 
-fss = ({//style attributes
+style attributes:
 	d : 'display',
 	h : 'height',
 	w : 'width',
@@ -79,8 +79,8 @@ fss = ({//style attributes
 	dec : 'decoration',
 	wt : 'weight',
 	tr : 'transform'
-	});
-values = ({//attributes' values
+
+attributes' values:
 	a : 'auto',
 	n : 'none',
 	h : 'hidden',
@@ -110,12 +110,12 @@ values = ({//attributes' values
 	u : 'underline',
 	up : 'uppercase',
 	low : 'lowercase'
-});
-secondaries = ({//parts of attributes after "-" or others
+
+parts of attributes after "-" or others:
 	T : 'top',
 	L : 'left',
 	R : 'right',
 	B : 'bottom',
 	A : 'align',
 	a : 'align'
-});
+
